@@ -1,6 +1,6 @@
 
 import requests
-#Задание №12
+#Задание №1
 name = 'Anna'
 print(f'Hello, {name}!')
 
