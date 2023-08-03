@@ -12,7 +12,7 @@ if key in obj:
 else:
     print(f"Ключа {key} в JSON нет")
 
-# Задание № 232
+# Задание № 2
 url = 'https://playground.learnqa.ru/api/long_redirect'
 response = requests.get(url=url, allow_redirects=True)
 history = response.history
