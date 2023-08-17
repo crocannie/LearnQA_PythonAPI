@@ -304,5 +304,3 @@ for i in unique_passwords:
     if response_check_cookie.text == 'You are authorized':
         print(f'{response_check_cookie.text}, {i}')
 
-#Перемещение проекта
-#Перемещение проекта
