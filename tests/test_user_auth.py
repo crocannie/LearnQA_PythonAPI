@@ -56,4 +56,6 @@ class TestUserAuth(BaseCase):
             f'User is authirized with condition {condition}',
         )
 
+        # python -m pytest -s tests/test_user_auth.py
+
         
